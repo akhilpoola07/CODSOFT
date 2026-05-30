@@ -45,13 +45,3 @@ Entropy: 95.8 bits
 ```
 The GUI displays the password, a strength bar, and the entropy value.
 
-## Internship Task Details
-- **Task**: Build a professional password generator as part of CodSoft Internship Task 3.
-- **Deliverables**: Source code, README, screenshots, and a ready‑to‑upload GitHub repository.
-- **Evaluation Criteria**: Code quality, UI/UX, documentation, and additional advanced features.
-
-## Screenshots
-Add screenshots of the application in the `screenshots/` directory and reference them here.
-
----
-*This project is ready to be pushed to GitHub and showcased on LinkedIn.*
